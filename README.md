@@ -11,7 +11,7 @@ Mapping earthquakes using Javascript
 Scale is color coded based on magnetude scale of earthquake to provide insight into map colorcoding.
 
 ### Creating multiple layers
-![toggle_options]()
+![toggle_options](Images/toggle_options.png)
 The above provides multiple viewing layers within one interactive screen.
 
 Below are some examples of varying map options
